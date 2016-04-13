@@ -136,7 +136,7 @@ Easy is a CSS/HTML/JavaScript framework started as a personal project and then g
 
 **Responsive:** No
 
-**Website:** http://easyframework.com/
+**Website:** http://easyframework.net/
 
 ## elastiCSS
 
